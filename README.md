@@ -1,1 +1,3 @@
-# Cryptocurrencies
+# Cryptocurrency Classification
+
+This project analyzes over 1000 cryptocurrencies from CrypoCompare, grouping them to create a classification system for the purpose of offering a new cryptocurrency investment portfolio. The data is cleaned and preprocessed, principal component analysis is implemented to reduce the data dimensions, the currencies are grouped or clustered using the K-means algorithm, and the results are visualized to understand the groups. 
